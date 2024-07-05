@@ -25,7 +25,7 @@ This is a simple To-Do application built with ReactJS. The application allows us
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/ShaikArshidBanu/To-Do-Application.git
 cd todo-app
 ```
 
